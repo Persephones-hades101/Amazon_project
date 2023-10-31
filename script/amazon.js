@@ -56,7 +56,7 @@ products.forEach((product) => {
           </button>
         </div>`
 })
-// console.log(html)
+console.log(html)
 document.querySelector('.js-products-grid').innerHTML = html
 
 
